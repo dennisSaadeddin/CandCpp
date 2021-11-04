@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
+/*
  * File:   main.cpp
  * Author: denniss
  *
@@ -35,4 +35,3 @@ int main(int argc, char** argv) {
 
     return 0;
 }
-
